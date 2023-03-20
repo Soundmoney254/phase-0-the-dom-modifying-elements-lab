@@ -4,7 +4,7 @@ main.remove();
 
 const newHeader = document.createElement('h1');
 
-newHeader.textContent = 'Mbugua is the champion';
+newHeader.textContent = 'Angelo is the champion';
 
 newHeader.setAttribute('id', 'victory');
 
